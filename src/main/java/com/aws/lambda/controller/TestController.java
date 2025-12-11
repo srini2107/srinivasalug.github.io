@@ -13,8 +13,5 @@ public class TestController {
         return "Hello this is your message";
     }
 
-    @GetMapping("/msg1")
-    public String getMessage1() {
-        return "Hello this is your message";
-    }
+
 }
