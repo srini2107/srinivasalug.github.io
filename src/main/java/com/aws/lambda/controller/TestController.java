@@ -12,9 +12,4 @@ public class TestController {
     public String getMessage() {
         return "Hello this is your message";
     }
-
-    //test
-    public String getQuote() {
-        return "hello";
-    }
 }
